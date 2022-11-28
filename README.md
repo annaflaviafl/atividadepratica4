@@ -11,3 +11,10 @@ O objetivo dessa tarefa é:
 
 ![Linus Torvalds](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIVk3PSXOfegVU5-k9zkgOrozz7l7v0bRMJbJaPyIxcod3zz5r-meP3b9VG_OXcw9mNRE&usqp=CAU)
 
+[Clique aqui para obter!](https://git-scm.com/downloads)
+
+## O que é o Github?
+
+- Uma plataforma de **hospedagem de código-fonte com controle de versão usando o Git**
+
+[Clique aqui para acessa-la!](https://github.com/)
