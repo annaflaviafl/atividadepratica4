@@ -18,3 +18,12 @@ O objetivo dessa tarefa é:
 - Uma plataforma de **hospedagem de código-fonte com controle de versão usando o Git**
 
 [Clique aqui para acessa-la!](https://github.com/)
+
+*Curiosidades:*
+
+Como fica um bloco de código em um documento README no Github? Veja abaixo:
+```js
+function retornaString () {
+   return "Hello world";
+}
+```
